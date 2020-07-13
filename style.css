@@ -13,14 +13,14 @@
        display: flex;
        height: 100vh;
        width: 100%;
-       background: #010615;
+       background: #ffffff;
        justify-content: center;
        align-items: center;
    
    }
    .container{
    
-       background-color: #060c21;
+       background-color: #ffffff;
        position: relative;
        width: 600px;
        min-height: 500px;
@@ -56,17 +56,17 @@
    }
    .container:before, .container::after{
    
-       background: linear-gradient(253deg, #ff005e, #010615, #fbff00);
+       background: linear-gradient(253deg, #f10808, #010615, #1f10ec);
    
    }
    
    .container hr {
    
-     background-color: #fff;
+     background-color: rgb(11, 24, 100);
      
    } 
    .container h1 {
-       color: #fff;
+       color: rgb(13, 12, 85);
        text-align: center;
        margin-bottom: 20px;
        margin-top: 5px;
@@ -76,7 +76,7 @@
    
    .container label{
        font-size: 35px;
-       color: rgb(111, 14, 175);
+       color: rgb(22, 7, 92);
        margin-left: 35%;
        font-weight: bold;
    
@@ -90,8 +90,8 @@
    }
    
    .container button{
-       background-color:  rgb(68, 255, 10);
-       color: rgb(98, 0, 218);
+       background-color:  rgb(161, 26, 26);
+       color: rgb(255, 255, 255);
        font-size: 25px;
        margin: 15px 35;
        border: 10;
@@ -104,7 +104,7 @@
    .container p{
        font-size: 25px;
        font-weight: bold;
-       color: rgb(7, 194, 7);
+       color: rgb(204, 8, 8);
        margin: 25px;
        text-align: center;
    
