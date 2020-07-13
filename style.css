@@ -76,7 +76,7 @@
    
    .container label{
        font-size: 35px;
-       color: rgb(204, 19,199);
+       color: rgb(111, 14, 175);
        margin-left: 35%;
        font-weight: bold;
    
@@ -90,8 +90,8 @@
    }
    
    .container button{
-       background-color: rgb(90, 3, 3);
-       color: #fff;
+       background-color:  rgb(68, 255, 10);
+       color: rgb(98, 0, 218);
        font-size: 25px;
        margin: 15px 35;
        border: 10;
